@@ -1,0 +1,25 @@
+{
+  "name": "foresee-solanamobile-publishing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.1",
+  "devDependencies": {
+    "@solana-mobile/dapp-store-cli": "^0.15.0"
+  },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "bigint-buffer",
+      "bufferutil",
+      "keccak",
+      "secp256k1",
+      "utf-8-validate"
+    ]
+  }
+}

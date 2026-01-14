@@ -1,0 +1,158 @@
+publisher:
+  name: SagaPad
+  website: https://sagapad.com/
+  email: jake@sagapad.com
+app:
+  name: SagaPad
+  address: EMinsth88QTrFkwbkMPdTh9VDkiWmiUEJfRh774SoT2o
+  android_package: com.sagapad.app
+  urls:
+    license_url: https://app.sagapad.com/terms
+    copyright_url: https://app.sagapad.com/copy-right
+    privacy_policy_url: https://app.sagapad.com/privacy
+    website: https://app.sagapad.com/
+  media:
+    - purpose: icon
+      uri: ./media/app_icon.png
+release:
+  address: xrYScYLDC8qhxPkNGHSnT59fX4pje8MMmqZhRdsETjy
+  media:
+    - purpose: icon
+      uri: ./media/app_icon.png
+    - purpose: banner
+      uri: ./media/banner.png
+    - purpose: screenshot
+      uri: ./media/screenshot_1.png
+    - purpose: screenshot
+      uri: ./media/screenshot_2.png
+    - purpose: screenshot
+      uri: ./media/screenshot_3.png
+    - purpose: screenshot
+      uri: ./media/screenshot_4.png
+  files:
+    - purpose: install
+      uri: ./files/app-release.apk
+  catalog:
+    en-US:
+      name: SagaPad
+      short_description: Futarchy Launchpad
+      long_description: |
+        SagaPad: Futarchy Launchpad, governed by the community
+        SagaPad is a futarchy launchpad, built for the users. We give you the tools to back the best underdogs and ensure they actually ship.
+
+        Why choose SagaPad?
+
+        - Futarchy Gorvenrance: You don’t just vote; you signal. Use market-driven insights to decide which projects deserve the green light.
+          
+        - Anti-rug Treasury: Monthly Funds and Incentives are only released to builders as they hit verifiable milestones.
+          
+        - Fair Launch: Get in on the same terms as everyone else. We’ve removed the gatekeepers so the community wins first.
+          
+        - SagaPad turns your conviction into a actions. Stop chasing speculation and start being a partner in the build.
+      new_in_version: Initial release
+      saga_features: None yet
+  android_details:
+    cert_fingerprint: 65bf959d0613c2b254e9d95949867dd698616fbaf9b185660d26b9d5d3274492
+    min_sdk: 23
+    version: 1.0.0
+    version_code: 1
+    locales:
+      - en-US
+      - af
+      - am
+      - ar
+      - as
+      - az
+      - be
+      - bg
+      - bn
+      - bs
+      - ca
+      - cs
+      - da
+      - de
+      - el
+      - en-AU
+      - en-CA
+      - en-GB
+      - en-IN
+      - en-XC
+      - es
+      - es-419
+      - es-ES
+      - es-US
+      - et
+      - eu
+      - fa
+      - fi
+      - fr
+      - fr-CA
+      - gl
+      - gu
+      - hi
+      - hr
+      - hu
+      - hy
+      - in
+      - is
+      - it
+      - iw
+      - ja
+      - ka
+      - kk
+      - km
+      - kn
+      - ko
+      - ky
+      - lo
+      - lt
+      - lv
+      - mk
+      - ml
+      - mn
+      - mr
+      - ms
+      - my
+      - nb
+      - ne
+      - nl
+      - or
+      - pa
+      - pl
+      - pt
+      - pt-BR
+      - pt-PT
+      - ro
+      - ru
+      - si
+      - sk
+      - sl
+      - sq
+      - sr
+      - sr-Latn
+      - sv
+      - sw
+      - ta
+      - te
+      - th
+      - tl
+      - tr
+      - uk
+      - ur
+      - uz
+      - vi
+      - zh-CN
+      - zh-HK
+      - zh-TW
+      - zu
+solana_mobile_dapp_publisher_portal:
+  testing_instructions: You just connect to any supported wallets to test the app.
+  alpha_testers:
+    - address: CjuBTBbq3Ztmi3vArdFpxkxynkoraVkfA1vrWYA56gxD
+      comment: Test user 1
+lastSubmittedVersionOnChain:
+  address: xrYScYLDC8qhxPkNGHSnT59fX4pje8MMmqZhRdsETjy
+  version_code: 1
+  apk_hash: THg8GqzQbVHRXr88or0t3dqrAZ5zMJQ4Co4czVbLZ9c=
+lastUpdatedVersionOnStore:
+  address: xrYScYLDC8qhxPkNGHSnT59fX4pje8MMmqZhRdsETjy
